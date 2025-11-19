@@ -4,3 +4,4 @@ colors = ["red", "blue", "black"]
 pos = colors.index("black") 
 colors.insert(pos, "yellow")  
 print(pos)
+print(colors)
